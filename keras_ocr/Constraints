@@ -1,0 +1,5 @@
+Constraints related to keras based Optical Character Recognition Engine:-
+1. There may be two different products of the same product code, we can't distinguish it based on the color or texture using keras based ocr.
+2. We also can't distinguish based on the dimensions of the box.
+3. We cannot distinguish based on the font size too even if it was same.
+
